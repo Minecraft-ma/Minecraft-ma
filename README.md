@@ -1,168 +1,171 @@
+````md
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00BFFF,100:001F54&text=Minecraft-Man&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24,30&text=Minecraft-Man&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
 
-# 👋 Salut, moi c'est Alexis
-
-### 🚀 Founder of **Domination World**
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Passionn%C3%A9+par+le+code;Minecraft+Modded+Developer;AI+Creator;Full+Stack+Developer;Always+Learning+New+Things"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1200&color=3BA4FF&center=true&vCenter=true&width=900&lines=Founder+of+Domination+World;AI+Enthusiast;Minecraft+Developer;Always+Building+Something+Awesome;Welcome+to+my+GitHub"/>
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=Minecraft-ma&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/Minecraft-ma?style=for-the-badge&color=blue"/>
-<img src="https://img.shields.io/github/stars/Minecraft-ma?style=for-the-badge&color=yellow"/>
+
+<img src="https://komarev.com/ghpvc/?username=Minecraft-ma&style=for-the-badge&color=blue"/>
+
+<img src="https://img.shields.io/github/followers/Minecraft-ma?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/Minecraft-ma?style=for-the-badge"/>
+
 </p>
 
 </div>
 
 ---
 
-# ⚡ À propos de moi
+# 👋 Salut !
 
-```yaml
-Nom: Alexis
-
-Pseudo:
-  - Minecraft-Man
-  - Minecraft_ma
-
-Fondateur:
-  - Domination World
-
-Passions:
-  - Minecraft
-  - Intelligence Artificielle
-  - Développement
-  - Automatisation
-  - Bots
-  - Expérimentation
-
-J'aime:
-  - Créer des IA
-  - Découvrir de nouvelles technologies
-  - Développer des systèmes complexes
-  - Les gros projets
-
-Objectif:
-  "Construire quelque chose d'unique."
+```txt
+╔════════════════════════════════════════════╗
+║              SYSTEM BOOTING               ║
+╠════════════════════════════════════════════╣
+║ User      : Alexis                        ║
+║ Alias     : Minecraft-Man                ║
+║ Project   : Domination World             ║
+║ Status    : Online 🟢                    ║
+║ Passion   : Coding + AI + Minecraft      ║
+║ OS         : Linux ❤️                    ║
+╚════════════════════════════════════════════╝
 ```
 
 ---
 
-# 🌍 Domination World
+# ⚡ À propos
 
-> **Domination World** est un serveur Minecraft moddé créé avec passion.
+> Je suis **Alexis**, développeur passionné qui adore transformer des idées en projets.
 
-⚔️ Gameplay unique
+Je développe principalement :
 
-🧠 Développement sur mesure
-
-🤖 IA intégrées
-
-⚡ Systèmes exclusifs
-
-🎮 Une communauté incroyable
-
----
-
-# 🧠 L'IA
-
-L'Intelligence Artificielle est probablement ce qui me passionne le plus.
-
-J'adore créer :
-
-- 🤖 Agents IA
-- 🧠 LLM
-- 💬 Chatbots
+- 🌍 Serveurs Minecraft
+- 🤖 Intelligence Artificielle
+- 💻 Applications Web
 - ⚙️ Automatisation
-- 📊 Analyse de données
-- 🔥 Expériences complètement folles
+- ☁️ APIs
+- 🔥 Outils personnalisés
 
-> **"L'imagination est la seule limite."**
-
----
-
-# 💻 Technologies
-
-## Langages
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,cs,php,html,css,nodejs,react,mysql,lua,bash,git,docker,linux"/>
-
-</p>
+Je passe énormément de temps à expérimenter de nouvelles technologies simplement par curiosité.
 
 ---
 
-# 🚀 Ce que je développe
+# 🧠 Domination World
 
-🟦 Plugins Minecraft
+<div align="center">
 
-🟪 Mods
+### ⚔️ Un serveur Minecraft moddé créé avec passion.
+
+🏰 Univers unique
+
+⚙️ Développement maison
 
 🤖 IA
 
-🌍 Sites Web
+💎 Fonctionnalités inédites
 
-💬 Bots Discord
-
-⚙️ API
-
-🛠 Outils
-
-☁️ Services Cloud
-
----
-
-# 📊 GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Minecraft-ma&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minecraft-ma&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Minecraft-ma&theme=tokyonight&hide_border=true"/>
+🚀 Toujours en évolution
 
 </div>
 
 ---
 
-# 📈 Contribution
+# 💻 Tech Stack
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Minecraft-ma&theme=tokyo-night"/>
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,react,java,php,html,css,mysql,docker,linux,bash,git,vscode,lua&perline=8"/>
 
 </div>
 
 ---
 
-# 🏆 Trophées
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Minecraft-ma&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Minecraft-ma&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minecraft-ma&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Minecraft-ma&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🌌 Citation
+# 📈 Contribution Graph
 
 <div align="center">
 
-> ## *"Code. Create. Dominate."*
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Minecraft-ma&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
+# 🏆 GitHub Trophies
+
 <div align="center">
 
-### Merci de visiter mon profil ❤️
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:001F54,100:00BFFF"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Minecraft-ma&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
 
 </div>
+
+---
+
+# ⚡ Fun Zone
+
+```python
+class Alexis:
+
+    def __init__(self):
+        self.name = "Minecraft-Man"
+        self.project = "Domination World"
+        self.favorite = [
+            "Artificial Intelligence",
+            "Minecraft",
+            "Automation",
+            "Learning"
+        ]
+
+    def life(self):
+        while True:
+            code()
+            create()
+            improve()
+            repeat()
+
+Alexis().life()
+```
+
+---
+
+# 🎯 Current Mission
+
+```txt
+[███████████████████████░░] 92%
+
+▸ Building Domination World
+▸ Creating AI projects
+▸ Learning new technologies
+▸ Never stopping 🚀
+```
+
+---
+
+<div align="center">
+
+## 💙 "Code • Create • Dominate"
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=gradient&customColorList=12,20,24,30"/>
+
+</div>
+````
