@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00BFFF,100:001F54&text=Minecraft-Man&fontColor=ffffff&fontSize=65&animation=fadeIn&fontAlignY=38"/>
+<img src="TON_LOGO_DW_ICI" width="180"/>
 
-# 👋 Salut, moi c'est Alexis
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00BFFF,100:001F54&text=Domination+World&fontColor=ffffff&fontSize=65&animation=fadeIn&fontAlignY=38"/>
 
-### 🚀 Founder & Developer de **Domination World**
+# 👋 Bienvenue sur mon profil
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Minecraft+Modded+Developer;AI+Creator;Building+Future+Technologies;Turning+Ideas+Into+Reality"/>
+## 🚀 Alexis — Fondateur de **Domination World**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Founder+of+Domination+World;Minecraft+Modded+Developer;Creating+Unique+Gaming+Experiences;AI+%26+Technology+Enthusiast;Building+Something+Different"/>
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=Minecraft-ma&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
@@ -18,99 +20,94 @@
 
 ---
 
-# 🧑‍💻 À propos de moi
-
-```yaml
-name: Alexis
-
-aliases:
-  - Minecraft-Man
-  - Minecraft_ma
-
-role:
-  - Founder @ Domination World
-  - Full Stack Developer
-  - AI Enthusiast
-
-focus:
-  - Artificial Intelligence
-  - Minecraft Development
-  - Automation
-  - Backend Systems
-  - Creative Technologies
-
-currently_building:
-  - AI-powered tools
-  - Minecraft ecosystems
-  - Custom platforms
-  - Experimental projects
-
-motto:
-  "Créer des choses que personne n'a encore imaginées."
-```
-
----
-
 # 🌍 Domination World
 
 <div align="center">
 
-## ⚔️ Un univers Minecraft pensé autrement
+<img src="TON_LOGO_DW_ICI" width="120"/>
+
+## ⚔️ Un serveur Minecraft moddé créé pour repousser les limites
 
 </div>
 
-**Domination World** est un projet Minecraft moddé développé avec l'objectif de créer une expérience unique mélangeant :
+**Domination World (DW)** est un projet Minecraft ambitieux basé sur une vision simple :
 
-- ⚔️ Gameplay personnalisé
-- 🧩 Mods et systèmes exclusifs
-- 🤖 Intelligence artificielle intégrée
-- 🌍 Univers évolutif
-- 🛠 Développement entièrement sur mesure
+> Créer un univers où chaque joueur peut vivre une expérience unique, immersive et évolutive.
 
-> Construire un monde où la technologie rencontre la créativité.
+Ce n'est pas seulement un serveur Minecraft, c'est un véritable écosystème développé autour de :
+
+* 🧩 Mods et fonctionnalités exclusives
+* ⚔️ Gameplay entièrement personnalisé
+* 🌎 Monde évolutif avec son propre univers
+* 🤖 Intelligence artificielle intégrée
+* 🏗️ Systèmes développés sur mesure
+* 🎮 Expérience pensée pour une vraie communauté
 
 ---
 
-# 🤖 Intelligence Artificielle
+# 🏰 La vision de Domination World
 
-L'IA est l'un de mes principaux domaines d'expérimentation.
+Domination World a pour objectif de créer un serveur différent des expériences classiques.
 
-Je travaille notamment sur :
+L'idée est de mélanger :
 
-- 🧠 Agents intelligents
-- 💬 Assistants IA
-- 🤖 Automatisation avancée
-- 🔗 Intégration de modèles LLM
-- 📊 Analyse et traitement de données
-- ⚙️ Systèmes autonomes
+```
+Minecraft
+    +
+Modding avancé
+    +
+Technologies modernes
+    +
+Intelligence Artificielle
+    +
+Communauté
+```
+
+Chaque système est pensé pour apporter une nouvelle dimension au jeu :
+
+⚔️ Des mécaniques inédites
+🛠️ Des outils personnalisés
+🌍 Un univers vivant
+🤖 Des fonctionnalités intelligentes
+🔥 Une expérience unique
+
+---
+
+# 👑 Mon rôle dans Domination World
+
+En tant que fondateur, je travaille sur :
+
+* 💻 Le développement du serveur
+* 🧩 La création de systèmes personnalisés
+* ⚙️ L'architecture technique
+* 🤖 L'intégration d'IA
+* 🌐 Les plateformes liées au projet
+* 🚀 L'évolution globale de l'écosystème DW
 
 Mon objectif :
 
-> Utiliser l'IA pour créer des outils utiles, puissants et innovants.
+> Transformer une idée en un univers Minecraft complet et durable.
 
 ---
 
-# 🚀 Mes domaines de création
+# 🤖 Intelligence Artificielle & Innovation
 
-<table>
-<tr>
-<td align="center">🎮<br><b>Minecraft</b><br>Mods • Plugins • Serveurs</td>
-<td align="center">🤖<br><b>IA</b><br>Agents • Bots • Automatisation</td>
-<td align="center">🌐<br><b>Web</b><br>Applications • APIs</td>
-</tr>
+L'IA est un élément important de mes projets.
 
-<tr>
-<td align="center">⚙️<br><b>Backend</b><br>Systèmes complexes</td>
-<td align="center">☁️<br><b>Infrastructure</b><br>Cloud • Docker</td>
-<td align="center">🧪<br><b>Expérimentation</b><br>Nouvelles technologies</td>
-</tr>
-</table>
+Dans Domination World et mes autres créations, j'explore :
+
+* 🧠 Agents IA
+* 💬 Assistants intelligents
+* 🤖 Automatisation
+* ⚙️ Systèmes autonomes
+* 📊 Analyse de données
+* 🔗 Intégration de nouvelles technologies
+
+L'objectif est d'utiliser la technologie pour créer des expériences nouvelles.
 
 ---
 
-# 💻 Stack Technique
-
-## Langages & Technologies
+# 💻 Technologies utilisées
 
 <p align="center">
 
@@ -120,19 +117,31 @@ Mon objectif :
 
 ---
 
-# 🛠 Projets & Expériences
+# 🛠️ Ce que je développe
 
-### 🌍 Domination World
-> Serveur Minecraft moddé avec systèmes personnalisés et expérience immersive.
+## 🌍 Domination World
 
-### 🤖 AI Projects
-> Création d'outils intelligents, assistants et automatisations.
+Serveur Minecraft moddé avec :
 
-### 🌐 Full Stack Development
-> Développement d'applications web modernes, APIs et plateformes.
+* Plugins personnalisés
+* Mods exclusifs
+* Systèmes uniques
+* Outils internes
+* Expérience communautaire
 
-### ⚙️ Developer Tools
-> Création d'outils pour améliorer les workflows et automatiser les tâches.
+## 🤖 Projets IA
+
+* Assistants IA
+* Bots intelligents
+* Automatisations
+* Expériences avec les LLM
+
+## 🌐 Développement Web
+
+* Sites
+* APIs
+* Applications
+* Services connectés
 
 ---
 
@@ -152,7 +161,7 @@ Mon objectif :
 
 ---
 
-# 📈 Activité GitHub
+# 📈 Activité
 
 <div align="center">
 
@@ -162,7 +171,7 @@ Mon objectif :
 
 ---
 
-# 🏆 Récompenses
+# 🏆 Récompenses GitHub
 
 <div align="center">
 
@@ -172,13 +181,15 @@ Mon objectif :
 
 ---
 
-# 🌌 Vision
+# 🌌 Ma philosophie
 
 <div align="center">
 
-## *"Code. Create. Dominate."*
+## "Code. Create. Dominate."
 
-Construire aujourd'hui les technologies de demain.
+Créer.
+Innover.
+Construire un univers qui dépasse les attentes.
 
 </div>
 
@@ -186,9 +197,13 @@ Construire aujourd'hui les technologies de demain.
 
 <div align="center">
 
-### Merci d'avoir visité mon profil ❤️
+## 🌍 Domination World
 
-⭐ N'hésite pas à explorer mes projets !
+**Un serveur. Une communauté. Une nouvelle expérience Minecraft.**
+
+<img src="TON_LOGO_DW_ICI" width="100"/>
+
+Merci d'avoir visité mon profil ❤️
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:001F54,100:00BFFF"/>
 
