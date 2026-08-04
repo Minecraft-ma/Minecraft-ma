@@ -1,290 +1,133 @@
+````md
+<!-- ========================================================= -->
+<!--                 ⚡ MINECRAFT-MA PROFILE ⚡                 -->
+<!--            Premium GitHub README by ChatGPT               -->
+<!-- ========================================================= -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00BFFF,100:001F54&text=Minecraft-Man&fontColor=ffffff&fontSize=65&animation=fadeIn&fontAlignY=38"/>
+# 👋 Hey, I'm Alexis
 
-# 👋 Salut, moi c'est Alexis
+### 🚀 Founder of **Domination World**
 
-### 💻 Developer • 🤖 AI Creator • 🎮 Minecraft Enthusiast
+*Building immersive Minecraft experiences with AI.*
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+%26+Automation+Enthusiast;Minecraft+Modded+Developer;Founder+of+Domination+World;Always+Building+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Founder+of+Domination+World;Minecraft+Developer;Artificial+Intelligence;Java+%7C+Python+%7C+Plugins;Always+Building+Something+Awesome..." />
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=Minecraft-ma&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/Minecraft-ma?style=for-the-badge&color=blue"/>
-<img src="https://img.shields.io/github/stars/Minecraft-ma?style=for-the-badge&color=yellow"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=Minecraft-Ma&style=for-the-badge&color=00E5FF"/>
 
 </div>
 
 ---
 
-# ⚡ À propos de moi
+# 🌌 About Me
 
 ```yaml
-name: Alexis
-username: Minecraft-Man
+👤 Name: Alexis
 
-roles:
-  - Full Stack Developer
-  - AI Creator
-  - Minecraft Developer
-  - Founder of Domination World
+🌍 Country: France
 
-interests:
+💻 GitHub: Minecraft-Ma
+
+🎯 Main Project:
+  Domination World
+
+🔥 Passion:
+  - Minecraft
   - Artificial Intelligence
+  - Java
+  - Python
   - Automation
-  - Minecraft Modding
-  - Backend Development
-  - Experimental Technologies
+  - Roblox Studio
+  - Open Source
 
-currently_exploring:
-  - AI Agents
-  - Large Language Models
-  - Autonomous Systems
-  - Complex Backend Architectures
-
-philosophy:
-  "Imaginer. Créer. Expérimenter."
+🚀 Goal:
+  Create one of the most immersive Minecraft servers.
 ```
 
-Je suis un développeur passionné par la **création de systèmes, l'intelligence artificielle et les nouvelles technologies**.
+---
 
-J'aime partir d'une idée, expérimenter, casser des choses, comprendre pourquoi elles ne fonctionnent pas... puis construire quelque chose de meilleur.
+# 🚀 Current Project
 
-Mes projets tournent principalement autour de **l'IA, l'automatisation, Minecraft et du développement Full Stack**.
+<div align="center">
 
-> **Si une idée semble impossible, elle devient immédiatement plus intéressante.**
+## 🌍 Domination World
+
+A next-generation Minecraft Geopolitical server.
+
+🏛 Nations
+
+💰 Economy
+
+🏢 Companies
+
+⚔ Wars
+
+🌍 Diplomacy
+
+📈 Player Progression
+
+🤖 Artificial Intelligence
+
+🎨 Custom Interfaces
+
+⚡ Custom Plugins
+
+🔐 Security Systems
+
+</div>
 
 ---
 
-# 🤖 Intelligence Artificielle
-
-L'**Intelligence Artificielle** est l'un de mes principaux terrains d'expérimentation.
-
-Je m'intéresse particulièrement aux systèmes capables de **comprendre, décider, automatiser et interagir**.
-
-J'expérimente autour de :
-
-* 🧠 Agents IA
-* 💬 Assistants intelligents
-* 🔗 Large Language Models
-* ⚙️ Automatisation avancée
-* 🤖 Systèmes autonomes
-* 📊 Analyse et traitement de données
-
-J'aime explorer la manière dont plusieurs technologies peuvent communiquer pour construire des systèmes plus intelligents et autonomes.
-
-```text
-INPUT
-  ↓
-ANALYSE
-  ↓
-AI AGENT
-  ↓
-DECISION
-  ↓
-TOOLS & AUTOMATION
-  ↓
-ACTION
-```
-
-> **L'IA n'est pas seulement un outil. C'est un immense terrain d'expérimentation.**
-
----
-
-# 🚀 Ce que je développe
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 🤖 Intelligence Artificielle
-
-Agents IA
-Assistants intelligents
-Automatisation
-LLM Integrations
-
-</td>
-
-<td width="33%" align="center">
-
-### 🎮 Minecraft
-
-Mods
-Plugins
-Serveurs moddés
-Systèmes personnalisés
-
-</td>
-
-<td width="33%" align="center">
-
-### 🌐 Full Stack
-
-Applications Web
-APIs
-Backend Systems
-Services connectés
-
-</td>
-</tr>
-
-<tr>
-<td width="33%" align="center">
-
-### ⚙️ Automation
-
-Bots
-Workflows
-Scripts
-Outils internes
-
-</td>
-
-<td width="33%" align="center">
-
-### ☁️ Infrastructure
-
-Docker
-Linux
-Services
-Architecture
-
-</td>
-
-<td width="33%" align="center">
-
-### 🧪 Experiments
-
-Prototypes
-Nouvelles technologies
-Concepts expérimentaux
-Projets improbables
-
-</td>
-</tr>
-</table>
-
----
-
-# 💻 Technologies & Outils
+# 💻 Tech Stack
 
 <div align="center">
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,cs,php,lua,bash"/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,bash"/>
 
-### Web & Backend
+### Development
 
-<img src="https://skillicons.dev/icons?i=html,css,nodejs,react,mysql"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,electron,nodejs,linux"/>
 
-### Tools & Infrastructure
+### Minecraft
 
-<img src="https://skillicons.dev/icons?i=git,docker,linux"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=minecraft"/>
 
-</div>
-
----
-
-# 🌍 Projet — Domination World
-
-<div align="center">
-
-## ⚔️ Domination World
-
-### `Développez • Négociez • Combattez • Dominez`
-
-**Une expérience Minecraft moddé géopolitique où les joueurs écrivent l'histoire du monde.**
-
-</div>
-
-**Domination World** est un serveur Minecraft moddé centré autour de la **géopolitique, de la gestion de nations et de la stratégie**.
-
-Les joueurs développent leurs propres pays et doivent construire leur puissance à travers plusieurs domaines :
-
-```text
-                 VOTRE NATION
-                      │
-        ┌─────────────┼─────────────┐
-        │             │             │
-     ÉCONOMIE      INDUSTRIE     TECHNOLOGIE
-        │             │             │
-        └─────────────┼─────────────┘
-                      │
-                 INFLUENCE
-                      │
-        ┌─────────────┴─────────────┐
-        │                           │
-    DIPLOMATIE                    GUERRE
-```
-
-### 🌐 Un monde dirigé par les joueurs
-
-* 🌍 Créer et développer une nation
-* 🏭 Construire une puissance industrielle
-* 💰 Développer son économie et son commerce
-* 📈 Faire évoluer ses technologies
-* 🤝 Construire des alliances
-* 🕊️ Négocier avec les autres dirigeants
-* ⚔️ Développer sa puissance militaire
-* 🌐 Influencer l'équilibre géopolitique mondial
-
-Chaque pays possède ses propres ambitions.
-
-Chaque alliance peut modifier l'équilibre du monde.
-
-Et chaque conflit peut changer l'histoire du serveur.
-
-> **Une décision diplomatique peut éviter une guerre. Ou en provoquer une.**
-
-En tant que **fondateur et développeur de Domination World**, je travaille sur le développement, les systèmes techniques, les outils internes et l'évolution globale du projet.
-
-Domination World est également un projet qui me permet d'expérimenter avec des **systèmes complexes à grande échelle**.
-
----
-
-# 🧠 Ce qui m'intéresse actuellement
-
-```text
-AI Agents               ████████████████████
-Large Language Models   ███████████████████░
-Automation              ██████████████████░░
-Minecraft Modding       █████████████████░░░
-Backend Systems         ████████████████░░░░
-Experimental Tech       ████████████████████
-```
-
-Toujours en train d'apprendre.
-
-Toujours en train d'expérimenter.
-
-Et généralement en train de commencer un nouveau projet avant d'avoir terminé le précédent. 😅
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Minecraft-ma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minecraft-ma&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br>
-
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Minecraft-ma&theme=tokyonight&hide_border=true"/>
+Forge • Paper • Spigot • Vault API • Plugin Development
 
 </div>
 
 ---
 
-# 📈 Contribution Activity
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Minecraft-ma&theme=tokyo-night&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Minecraft-Ma&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minecraft-Ma&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Minecraft-Ma&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Minecraft-Ma&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -294,38 +137,71 @@ Et généralement en train de commencer un nouveau projet avant d'avoir terminé
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Minecraft-ma&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Minecraft-Ma&theme=tokyonight&margin-w=15&margin-h=15&column=4&no-frame=true"/>
 
 </div>
 
 ---
 
-# 🌌 Philosophy
+# ⚡ Activity
 
 <div align="center">
 
-## `Code. Create. Experiment.`
-
-### Puis recommencer avec une idée encore plus ambitieuse.
-
-<br>
-
-**Construire • Expérimenter • Apprendre • Innover**
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Minecraft-Ma&theme=tokyonight"/>
 
 </div>
 
 ---
 
+# 🧠 Currently Learning
+
+```text
+▰▰▰▰▰▰▱▱ Java
+▰▰▰▰▰▱▱▱ AI
+▰▰▰▰▱▱▱▱ Plugin Development
+▰▰▰▱▱▱▱▱ Automation
+```
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Release Domination World Season IV
+- 🤖 Develop Quantum AI
+- 🧠 Master Artificial Intelligence
+- ⚡ Create better Minecraft plugins
+- 🌍 Grow an amazing community
+- 📦 Publish more open-source projects
+
+---
+
+# 💬 Motto
+
+> **"Dream. Build. Improve. Repeat."**
+
+---
+
 <div align="center">
 
-### 👨‍💻 Merci d'avoir visité mon profil
+## ⭐ Thanks for visiting!
 
-⭐ Explore mes repositories et mes différents projets.
+If you like my projects,
+leave a ⭐ on a repository!
 
-<br>
-
-<sub>Developer • AI Creator • Founder of Domination World</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:001F54,100:00BFFF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:0055FF&height=120&section=footer"/>
 
 </div>
+````
+
+Tu peux aussi ajouter ces **GitHub Actions** pour rendre le profil encore plus impressionnant :
+
+* 🐍 **Snake Animation** (le serpent qui mange tes contributions).
+* 🌙 **Statistiques mises à jour automatiquement**.
+* 📈 **Metrics ultra premium** (langages, calendrier, habitudes de code, etc.).
+* 🎵 **Spotify "Now Playing"**.
+* ☕ **Buy Me a Coffee**.
+* 💬 **Discord Presence**.
+* 🌍 **Carte du monde des visiteurs**.
+* 🎖️ **Badges dynamiques** (étoiles, forks, téléchargements, releases).
+* 🎨 **Bannière 3D personnalisée** aux couleurs de Domination World.
+* 
