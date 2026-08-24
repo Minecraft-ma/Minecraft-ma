@@ -13,21 +13,7 @@
 ---
 
 # 👋 Hello, I'm Alexis
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│ 👤 Name      : Alexis                                       │
-│ 🚀 Company   : Quantum                                      │
-│ 🤖 Main Work : Artificial Intelligence                      │
-│ 🎮 Project   : Domination World                             │
-│ 💻 Interests : AI • Minecraft • Web • Open Source           │
-│ 🌍 Country   : France                                       │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
-# ⚡ About Me
+Me
 
 I enjoy creating ambitious projects that combine **Artificial Intelligence**, **Minecraft**, and **modern technologies**.
 
