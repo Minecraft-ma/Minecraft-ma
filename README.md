@@ -1,70 +1,83 @@
 <div align="center">
 
-# ⚡ QUANTUM // Alexis
+# Alexis
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Founder+of+Quantum;Creator+of+OMNI-X;Founder+of+Domination+World;Building+AI+%26+Minecraft+Projects;Always+Learning+Something+New" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Founder+of+Quantum;Creator+of+OMNI-X;Creator+of+Domination+World;Building+AI+%26+Minecraft+Projects;Learning%2C+Building%2C+Improving" alt="Typing SVG"/>
 
-<br>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Minecraft-Man&label=Profile+Views&color=00e5ff&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Minecraft-Man&label=Profile+Views&color=00E5FF&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
 ---
 
-# 👋 Hello, I'm Alexis
-Me
+## 👋 Hey, I'm Alexis
 
-I enjoy creating ambitious projects that combine **Artificial Intelligence**, **Minecraft**, and **modern technologies**.
+I'm a developer and creator interested in **Artificial Intelligence, Minecraft, software development and automation**.
 
-Currently I'm working on several long-term projects focused on innovation and automation.
+I like building projects from scratch, experimenting with new technologies and turning ideas into something that actually works.
 
-## 🚀 Main Projects
-
-### 🤖 OMNI-X
-> A local AI assistant developed by **Quantum**.
-
-- 🧠 Local LLM
-- 💬 AI Chat
-- 🌐 Website Integration
-- ⚡ Fast & Lightweight
-- 🔒 Privacy First
+Right now, most of my time goes into **Quantum**, **OMNI-X** and **Domination World**.
 
 ---
 
-### 🏢 Quantum
+# 🚀 Projects
 
-My own technology company focused on AI and software development.
+## 🤖 OMNI-X
 
-**Current goals**
+**OMNI-X** is an AI assistant developed as part of **Quantum**.
+
+The goal is to build a useful and lightweight assistant that can interact with different services and projects.
+
+### Currently working on
+
+- 🧠 Local AI & LLMs
+- 💬 Conversational AI
+- 🌐 Web integration
+- ⚡ Lightweight systems
+- 🔒 Privacy-focused technology
+
+---
+
+## ⚛️ Quantum
+
+**Quantum** is my technology project focused on **AI, software and experimentation**.
+
+I'm using it as a place to build and test new ideas instead of limiting myself to a single type of project.
+
+### Focus
 
 - Artificial Intelligence
-- Modern Web Applications
+- Software Development
+- Automation
+- Web Technologies
 - Open Source
-- Innovative Software
-- Future Technologies
+- Experimental Projects
 
 ---
 
-### 🌍 Domination World
+## 🌍 Domination World
 
-A large Minecraft geopolitical experience.
+**Domination World** is a modded Minecraft geopolitical server I created.
 
-Features include
+The project combines Minecraft with a large-scale political and economic system.
 
-- Nations
-- Economy
-- Diplomacy
-- Politics
-- Industries
-- Military
-- Vehicles
-- Custom Plugins
-- AI Integration
+### Features
+
+- 🌎 Nations & Territories
+- 💰 Economy
+- 🤝 Diplomacy & Alliances
+- 🏛️ Politics
+- 🏭 Industry
+- ⚔️ Military
+- 🚗 Vehicles
+- 🛠️ Custom Systems & Plugins
+- 🤖 AI Integration
 
 ---
 
-# 💻 Languages & Technologies
+# 💻 Tech Stack
 
 <div align="center">
 
@@ -76,60 +89,35 @@ Features include
 
 # 🧠 Currently Learning
 
-```text
-▰▰▰▰▰▰▰▰▱▱ Artificial Intelligence
-
-▰▰▰▰▰▰▰▱▱▱ Java Development
-
-▰▰▰▰▰▰▱▱▱▱ Web Development
-
-▰▰▰▰▰▱▱▱▱▱ Machine Learning
-
-▰▰▰▰▰▰▱▱▱▱ Minecraft Plugin Development
-```
+| Technology | Progress |
+|---|---|
+| Artificial Intelligence | 🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ |
+| Java Development | 🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ |
+| Web Development | 🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜ |
+| Machine Learning | 🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜ |
+| Minecraft Development | 🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜ |
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Minecraft-Man&show_icons=true&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Minecraft-Man&show_icons=true&theme=tokyonight&hide_border=true" />
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Minecraft-Man&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Minecraft-Man&theme=tokyonight&hide_border=true" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Minecraft-Man&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minecraft-Man&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-# ⚙️ Current Focus
+# ⚙️ What I'm Working On
 
 ```text
-✔ Building OMNI-X
-
-✔ Developing Quantum
-
-✔ Growing Domination World
-
-✔ Exploring Local AI
-
-✔ Learning New Technologies
-```
-
----
-
-# 🎯 Philosophy
-
-> "Create today what everyone will use tomorrow."
-
----
-
-<div align="center">
-
-## ⚡ QUANTUM
-
-Building the Future with AI.
-
-</div>
+[████████░░] OMNI-X
+[███████░░░] Quantum
+[███████░░░] Domination World
+[██████░░░░] Local AI
+[█████░░░░░] New Experiments
